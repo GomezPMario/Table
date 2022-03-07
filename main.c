@@ -1,4 +1,3 @@
-//Trabajo realizado por Mario Gómez (alu.124956@usj.es)
 #include <stdio.h>
 #include <stdlib.h>
 
